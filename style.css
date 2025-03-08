@@ -107,33 +107,3 @@ li span{
     font-weight: 700;
 }
 
-
-.one  {
-    background-color:#d72a76;
-    width:200px;
-    height:200px;
-    border-radius:20%;
-    top:20px;
-    left:45px;
-    z-index: 3;
-
-}
-.two{
-    background-color:#2a6fd7;
-    width:200px;
-    height:200px;
-    border-radius:20%;
-    top:60px;
-    left:80px;
-    z-index: 2;
-
-}
-.three{
-    background-color:#2ad789;
-    width:200px;
-    height:200px;
-    border-radius:20%;
-    top : 60px;
-    left:120px;
-    z-index: 1;
-}
